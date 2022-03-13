@@ -11,6 +11,6 @@ If you want run it in reboot:
 - @reboot /home/Download/cleanall.sh
  > Have a nice day! :)
  
-*Clean.sh dont clean your free space!
+*Clean.sh dont clean your free space!*
 *Paranoid.sh use urandom. Pàranoid mode On*
 
